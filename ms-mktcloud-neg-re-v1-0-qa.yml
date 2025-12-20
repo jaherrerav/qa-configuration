@@ -1,0 +1,7 @@
+---
+ms:
+  endpoints:
+    login-util:
+      basePath: https://api.dsr01.com/bian1/bian2/ms-login-util/v1.0
+    notificacion-util:
+      basePath: https://api.dsr01.com/bian1/bian2/ms-notificacion-util/v1.0
