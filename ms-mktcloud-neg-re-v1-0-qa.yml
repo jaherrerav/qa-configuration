@@ -1,6 +1,0 @@
-ms:
-  endpoints:
-    login-util:
-      basePath: https://ms-login-util-re-v1-0-svc:8080/bian1/bian2/ms-login-util/v1.0
-    notificacion-util:
-      basePath: https://ms-notificacion-util-re-v1-1-svc:8080/bian1/bian2/ms-notificacion-util/v1.2
